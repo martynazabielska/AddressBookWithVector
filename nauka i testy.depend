@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701457575 source:c:\users\martyna\desktop\kurs_programowanie\20112023 - ksiazka adresowa z vectorem\nauka i testy\nauka i testy\main.cpp
+	<iostream>
+	<sstream>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
